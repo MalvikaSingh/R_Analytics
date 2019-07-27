@@ -1,6 +1,5 @@
 ---
-title: "HW3: Educational and Disciplinary Outcomes in Pennsylvania"
-author: "Shikha Goel, Malvika Singh, Elizabeth Speigle"
+title: "Educational and Disciplinary Outcomes in Pennsylvania"
 output: html_document
 ---
 
@@ -10,8 +9,8 @@ Data Notes: https://ocrdata.ed.gov/DataNotes
 User Manual: https://ocrdata.ed.gov/DataFileUsersManual 
 
 We are particularly interested in exploring variables related to discipline in schools, including in-school suspensions, absenteeism, and students reporting harassment or bullying on the basis of race and sex. Each of these variables is reported in the CRDC disaggregated by race, ethnicity, sex, and disability.
-
-We tested whether there are significant differences in these indicators by subgroup using ANOVA followed by t-tests. For example, is there a difference in the rates of in-school suspensions by ethnicity?
+This document includes:
+Testing whether there are significant differences in these indicators by subgroup using ANOVA followed by t-tests. For example, is there a difference in the rates of in-school suspensions by ethnicity?
 
 We also see if the reported variables are correlated with various school characteristics, including student/teacher ratio, teacher absenteeism, and school expenditures per student.
 
@@ -394,5 +393,5 @@ abs_M_F
 
 
 ```
-
+Thank you Shikha Goel and Elizabeth Speigle for your contribution to the Project and Domain Knowledge that you've shared and helped in making this Project.
 
