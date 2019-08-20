@@ -1,6 +1,7 @@
 ---
 title: "Educational and Disciplinary Outcomes in Pennsylvania"
 output: html_document
+author: Malvika Singh, Shikha Goel and Elizabeth Speigle
 ---
 
 About the data: The Civil Rights Data Collection (CRDC) 2015-16 includes data from a survey of public school districts in the United States for school year 2015-16. It is submitted biannually to the US Department of Education Office of Civil Rights. Data includes school characteristics, services, and outcomes, most of which are disaggregated by race, ethnicity, gender, limited English proficiency status, and disability. Each school district submits data from the relevant year and certifies that it is correct. The public-use data is suppressed to protect confidentiality. Data can be downloaded here: https://ocrdata.ed.gov/DownloadDataFile.
